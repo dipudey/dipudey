@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-<a href="https://dipudey.com" target="blank"><img src="https://img.icons8.com/color/344/facebook-new.png" alt="dipudey.com" height="50" width="50" /></a>
+<a href="https://dipudey.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="dipudey.com" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/dipu-chandra-dey-09287a207" target="blank"><img src="https://img.icons8.com/color/344/linkedin.png" alt="Dipu" height="50" width="50" /></a>
 
 <!-- ## 🧰 Languages and Tools:
