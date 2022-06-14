@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/dipudey?logo=GitHub&style=for-the-badge)
 
-- 💻 I'm working as a Full-time Software Developer at Akaar IT LTD.
+- 💻 I'm working as a Full-time Software Engineer at Codeboxr.
 
 - 👀 I’m interested in PHP,Laravel,Javascript,Vue Js,Nuxt Js,Inertia Js & Python
 
