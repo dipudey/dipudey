@@ -2,30 +2,26 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/dipudey?logo=GitHub&style=for-the-badge)
 
-- 💻 I'm working as a Full-time Software Engineer at Codeboxr.
+
+#### Bio
+- 💻 I'm working as a Software Engineer at Codeboxr.
 
 - 👀 I’m interested in PHP,Laravel,Javascript,Vue Js,Nuxt Js,Inertia Js & Python
 
-- 🌱 I’m currently Learning/Developing Web Application using Laravel & Vue Framework.
+- 🌱 I’m currently Learning/Developing Web Application using Laravel & Nuxt Framework.
 
 - ⚽ I love to watch Movies or Tv Series.
 
 - ⚡ Fun fact **I love to Travel.**
+
+#### My Current Stack
+
+<img height="48" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="Php"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" alt="Nuxt Js"> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs code"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/git-original.svg" alt="git">
+
+
 
 ### Connect with me:
 
 <a href="https://dipudey.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="dipudey.com" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/dipu-chandra-dey-09287a207" target="blank"><img src="https://img.icons8.com/color/344/linkedin.png" alt="Dipu" height="50" width="50" /></a>
 
-<!-- ## 🧰 Languages and Tools:
-
-<p align="start">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/60685715/127171045-689266f5-1bc3-41c1-88dc-976057ea6100.png" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmbadhon&layout=compact&hide=html" alt="hmbadhon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmbadhon&show_icons=true" alt="hmbadhon" /></p> -->
