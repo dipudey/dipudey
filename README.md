@@ -1,6 +1,6 @@
 <h1 align="center">Hello "🖐️", I am Dipu Chandra Dey</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/dipudey?logo=GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/dipudey?logo=GitHub&style=for-the-badge) ![Profile View](https://komarev.com/ghpvc/?username=dipudey)
 
 
 #### Bio
