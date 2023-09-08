@@ -5,7 +5,7 @@
 
 
 #### Bio
-- 💻 I'm working as a Software Engineer at Codeboxr.
+- 💻 I'm working as a Software Engineer at Strativ.
 
 - 👀 I’m interested in PHP,Laravel,Javascript,Vue Js,Nuxt Js,Inertia Js & Python
 
